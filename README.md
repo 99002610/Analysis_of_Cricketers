@@ -1,1 +1,4 @@
-# Analysis_of_Cricketers
+# Design
+
+ # wishlist
+ * virtual functions
